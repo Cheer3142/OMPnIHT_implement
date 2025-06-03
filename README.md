@@ -13,5 +13,9 @@ git clone https://github.com/Cheer3142/OMPnIHT_implement.git
 cd OMPnIHT_implement
 ```
 
+### Key Features
+✔ Sub-Nyquist Sampling - Reconstructs signals from M≪N measurements using sparsity <br />
+✔ Dual Algorithm Implementation - FPGA-optimized OMP (precision) and IHT (speed) architectures <br />
+✔ Hard Thresholding - IHT's K-sparse enforcement vs OMP's exact LS solutions <br />
 
 
