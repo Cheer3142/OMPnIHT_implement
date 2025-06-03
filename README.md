@@ -1,6 +1,7 @@
 # OMPnIHT_implement
 
 ## High-Speed Compressed Sensing Reconstruction on FPGA 
+By Lin Bai, Patrick Maechler, Michael Muehlberghuber, and Hubert Kaeslin Integrated Systems Laboratory, ETH Zurich, Switzerland
 
 "_This assignment only covers the fundamental idea and is a component of the course Sparse Signal Processing and its Applications._"
 
